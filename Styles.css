@@ -1,0 +1,27 @@
+.cont{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 100vh;
+}
+.heading{
+    color: maroon;
+}
+.form{
+    color: black;
+    border: solid;
+    float: right;
+}
+ .container2{
+    margin-right: 70px;
+    margin-top: 0px;
+}
+#image{
+    width: 100hw;
+}
+
+button{
+    padding: 10px;
+    border-radius: 10px;
+    color: blue;
+}
